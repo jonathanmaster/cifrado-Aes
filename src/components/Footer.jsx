@@ -11,7 +11,7 @@ export const Footer = () => {
 					<div className='w-16 mx-auto '>
 						<a
 							className='flex flex-wrap justify-center'
-							href='https://github.com/jonathanmaster'
+							href='https://github.com/jonathanmaster/cifrado-Aes'
 							target='_blank'
 							rel='noopener noreferrer'
 						>
